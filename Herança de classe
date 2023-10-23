@@ -21,7 +21,6 @@
 #     retorna nada. O método atualiza o valor de qualquer veículo. Faça crítica e teste.
 
 
-
 class Veiculo():
     def __init__(self,valor,modelo,km):
         self.valor=valor
